@@ -17,10 +17,6 @@ Viewing RNA expression on the gene and genome level using sequencing reads in th
 
 *Here we present viSRA, a tool for visualizing RNA-seq data from SRA datasets on the fly. There are a variety of tools to analyize and visualize microarray data, and these can be leveraged to accelerate development of feature rich RNA-Seq tools. viSRA facilitates the interrogation of SRA datasets for differential gene expression via dockerized pipeline. viSRA makes it easy for biologists to perform pathway enrichment analyses and to interrogate which genes are differentially expressed between experiments. viSRA benefits greatly from previous work on deSRA and the MicroArrayPipeline*
 
-
-
-
-
 ## What's the problem?
 *The NCBI Sequence Read Archive (SRA) provides NGS data along with sample and project metadata (NCBI Resource Coordinators 2017). As part of the International Nucleotide Sequence Database Collaboration, the SRA supports access to data from a wide variety of experimental types and sequencing instruments. Unfortunaltely, it can be time-consuming and difficult to access and analyze the data, especially if you want to quickly develop meaningful hypotheses. viSRA bridges this gap between advanced bioinformatic data and users.*
 
