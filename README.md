@@ -1,5 +1,5 @@
-# GoodDoc -- A Template for Simple and Clear Documentation of Bioinformatics Code!
-
+# viSRA_too
+Viewing RNA expression on the gene and genome level using sequencing reads in the SRA database
 ## Please cite our work -- here is the ICMJE Standard Citation:
 
 ### ...and a link to the DOI:
