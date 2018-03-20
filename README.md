@@ -1,4 +1,4 @@
-# viSRA_too
+# viSRAtoo
 Viewing RNA expression on the gene and genome level using sequencing reads in the SRA database
 ## Please cite our work -- here is the ICMJE Standard Citation:
 
@@ -25,7 +25,7 @@ Viewing RNA expression on the gene and genome level using sequencing reads in th
 
 # What is <this software>?
 
-![Overview Diagram](https://github.com/dasmoocher/viSRA2/blob/master/images/viSRA_workflow.png)
+![Overview Diagram](https://github.com/dasmoocher/viSRAtoo/blob/master/images/viSRA_workflow.png)
 
 # How to use <this software>
 
