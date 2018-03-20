@@ -18,7 +18,7 @@
 
 # What is <this software>?
 
-Overview Diagram
+![Overview Diagram](https://github.com/dasmoocher/viSRA2/blob/master/images/viSRA_workflow.png)
 
 # How to use <this software>
 
